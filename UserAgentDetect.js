@@ -11,6 +11,14 @@
     {
         return "Edge";
     }
+    else if(navigator.userAgent.indexOf("YaBrowser") != -1 ) // Chrome
+    {
+        return "Yandex";
+    }
+    else if(navigator.userAgent.indexOf("Lynx") != -1 ) // Chrome
+    {
+        return "Lynx";
+    }
     else if(navigator.userAgent.indexOf("Chrome") != -1 ) // Chrome
     {
         return "Chrome";
