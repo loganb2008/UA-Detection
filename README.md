@@ -12,7 +12,9 @@ detectUa("user agent here"); // Get specified useragent
 ```
 ![image](https://user-images.githubusercontent.com/91550229/153238950-2d6f3cab-1669-429d-ad16-ce91df95c042.png)
 # Detected browsers
+Nintendo DSi<br>
 Nintendo Wii<br>
+Nintendo Wii U<br>
 Nintendo 3DS<br>
 Opera<br>
 Edge<br>
