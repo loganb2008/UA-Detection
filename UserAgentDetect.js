@@ -11,6 +11,14 @@
     {
         return "Edge";
     }
+    else if(navigator.userAgent.indexOf("MQQBrowser") != -1 ) // Chrome
+    {
+        return "QQ";
+    }
+    else if(navigator.userAgent.indexOf("Maxthon") != -1 ) // Chrome
+    {
+        return "Maxthon";
+    }
     else if(navigator.userAgent.indexOf("YaBrowser") != -1 ) // Chrome
     {
         return "Yandex";
