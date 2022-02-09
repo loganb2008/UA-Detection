@@ -16,6 +16,8 @@ detectUa("user agent here"); // Get specified useragent
 getiOSVersion("user agent here");
 ```
 ![image](https://user-images.githubusercontent.com/91550229/153253925-1c1d98cd-8bd6-4bde-9f95-f1f2abfda5b8.png)
+# Examples
+Click [here](https://loganb2008.github.io/UA-Detection/examples) to visit the examples page
 # Detected browsers
 Nintendo DSi<br>
 Nintendo Wii<br>
