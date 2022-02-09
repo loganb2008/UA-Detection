@@ -11,3 +11,5 @@ Safari<br>
 Firefox<br>
 Playstation<br>
 Internet Explorer<br>
+Maxthon<br>
+QQ<br>
