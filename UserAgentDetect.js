@@ -2,6 +2,14 @@
 if(ua == "" || ua == undefined || ua == null) {
 ua = navigator.userAgent;
 }
+    if(ua.indexOf("Nintendo 3DS") != -1 ) // Wii
+    {
+        return "3DS"
+    }
+    if(ua.indexOf("Vita") != -1 ) // Wii
+    {
+        return "PSVita"
+    }
     if(ua.indexOf("Nintendo Wii") != -1 ) // Wii
     {
         return "Wii"
