@@ -3,7 +3,7 @@ Simple UA Detection in JS. Link to the JS file from github as this is updated re
 # Usage
 Put this code in your head tag: 
 ```JS
-<script src="https://raw.githubusercontent.com/loganb2008/UA-Detection/main/UserAgentDetect.js">
+<script src="https://loganb2008.github.io/UA-Detection/UserAgentDetect.js">
 ```
 ## Detecting UserAgent
 ```JS
