@@ -13,3 +13,4 @@ Playstation<br>
 Internet Explorer<br>
 Maxthon<br>
 QQ<br>
+UC Browser<br>
