@@ -9,6 +9,7 @@ Once done this can be used with
 ```JS
 detectUa();
 ```
+![image](https://user-images.githubusercontent.com/91550229/153238950-2d6f3cab-1669-429d-ad16-ce91df95c042.png)
 # Detected browsers
 Nintendo Wii<br>
 Opera<br>
