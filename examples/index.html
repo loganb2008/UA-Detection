@@ -1,1 +1,14 @@
-
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <script src="https://loganb2008.github.io/UA-Detection/UserAgentDetect.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+      <body>
+      <button onclick="history.back();" style="width: 100%;">Back</button>
+      <span class="cont">You are using <span class="browser">loading...</span></span>
+        <script>
+        document.getElementsByClassName("browser")[0].innerHTML = detectUa();
+    </script>
+      </body>
+</html>
