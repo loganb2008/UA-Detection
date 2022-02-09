@@ -11,6 +11,10 @@
     {
         return "Edge";
     }
+    else if(navigator.userAgent.indexOf("UCBrowser") != -1 ) // Chrome
+    {
+        return "UC";
+    }
     else if(navigator.userAgent.indexOf("MQQBrowser") != -1 ) // Chrome
     {
         return "QQ";
