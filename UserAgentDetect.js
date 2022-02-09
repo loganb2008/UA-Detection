@@ -71,3 +71,17 @@ ua = navigator.userAgent;
        return "Other";
     }
     }
+function getiOSVersion(ua) {
+i = ua.indexOf("OS") + 3;
+c = ua.at(i);
+b = "";
+do {
+c = ua.at(i);
+c = c.replace("_", ".");
+b = b + c;
+i+=1;
+}
+while(c !== " ");
+b = b.replace(" ", "");
+return b;
+}
