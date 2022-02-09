@@ -7,7 +7,8 @@ Put this code in your head tag:
 ```
 Once done this can be used with
 ```JS
-detectUa();
+detectUa(); // Get current useragent
+detectUa("user agent here"); // Get specified useragent
 ```
 ![image](https://user-images.githubusercontent.com/91550229/153238950-2d6f3cab-1669-429d-ad16-ce91df95c042.png)
 # Detected browsers
